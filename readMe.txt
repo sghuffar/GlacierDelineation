@@ -6,3 +6,5 @@ In this code I am using Pytorch instead of TensorFlow
 The advantage of using Colab and EarthEngine is that you don't need to download the Landsat Images on your hard disk to test the Neural Network model
 At the moment there are issues with the limited RAM with the free colab usage. So I am unable to process the whole ETM+ image
 kindly report issues at Dr. Sajid Ghuffar on http://grel.ist.edu.pk/?People
+UNet_Glaciers is the trained Neural network model
+
